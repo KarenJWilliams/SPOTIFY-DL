@@ -1,0 +1,10 @@
+﻿venv/
+__pycache__/
+*.dll
+*.pyd
+*.exe
+*.h5
+*.pt
+*.pkl
+*.onnx
+.DS_Store
